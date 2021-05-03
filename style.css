@@ -23,3 +23,17 @@
     transform: translate(200px, -150px);
     color: white;
 }
+
+
+img{
+    width: 350px;
+    height: 350px;
+    /* /* width: 25%; */
+    float: left; 
+    object-fit: cover;
+    margin: 20px;
+}
+
+.photo-section{
+    margin-left: 90px;
+
