@@ -3,3 +3,23 @@
     padding: 0;
     margin: 0;
 }
+
+.header{
+    border: 1px solid red;
+    width: 100vw;
+    height: 50vh;
+    background-image: url("./abstract background.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navbar{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.header-txt{
+    transform: translate(200px, -150px);
+    color: white;
+}
